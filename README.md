@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Java Full-Stack frameworks (Spring Boot, Hibernate, React/Angular)**
 
-- 💬 Ask me about **React, Angular, Java, Spring Boot**
+- 💬 Ask me about **Angular, Java, Spring Boot**
 
 - 📫 How to reach me **kotagirikeerthisri2177@gmail.com**
 
