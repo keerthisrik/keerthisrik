@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on Intern in Techwing
+- 🔭 I’m currently working as Intern in Techwing
 
 - 🌱 I’m currently learning Advanced Java Full-Stack frameworks (Spring Boot, Angular)
 
